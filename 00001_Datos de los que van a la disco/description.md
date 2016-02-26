@@ -5,6 +5,6 @@ Encontrar los datos de una persona que ingresó a la discoteca en base al nombre
 Agitador 1670 2000 [("Cerveza",2)] "rodri"
 ```
 
-:point_right: Debe utilizar pattern matching y dónde recursividad
+:point_right: Debés utilizar pattern matching y dónde recursividad
 
 :boom: ¿Qué pasa si se busca una persona que no está en la lista? Dejar que explote.

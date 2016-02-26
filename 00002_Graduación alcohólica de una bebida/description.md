@@ -6,3 +6,5 @@ Resolver la graduación alcohólica de un trago
 ```
 
 Debe utilizar pattern matching y dónde recursividad
+
+:boom: ¿Qué pasa si se busca una persona que no está en la lista? Dejar que explote.
