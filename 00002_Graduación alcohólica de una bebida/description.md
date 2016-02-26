@@ -7,4 +7,4 @@ Resolver la graduación alcohólica de un trago
 
 :point_right: Debés utilizar pattern matching y dónde recursividad
 
-:boom: ¿Qué pasa si se busca una persona que no está en la lista? Dejar que explote.
+:boom: ¿Qué pasa si se busca un trago que no está en la lista? Dejar que explote.
