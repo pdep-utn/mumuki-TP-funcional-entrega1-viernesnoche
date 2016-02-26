@@ -15,12 +15,14 @@ discotequers = [fer, rodri, deby, flor]
 ```
 
 Las personas **tranquilas** definen: 
+
 * Cómo se llama la persona
 * La lista de tragos que tomó, cada trago se representa como una tupla que define 
 * El nombre de la bebida 
 * La cantidad de vasos que tomó 
 
 Las que **agitan** definen
+
 * La cantidad de levante que tiene
 * El nivel de aguante de alcohol
 * La lista de tragos que tomó
@@ -42,7 +44,9 @@ El formato que sigue la tupla es:
 
 
 ## Restricciones
+
 * Los nombres de las funciones y sus parámetros deben ser representativos o la entrega deberá ser corregida.
+
 * No debe haber expresiones del tipo
 
 ``` haskell
