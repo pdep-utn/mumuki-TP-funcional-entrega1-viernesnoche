@@ -46,13 +46,10 @@ El formato que sigue la tupla es:
 
 Cada grupo tendrá 4 integrantes y deben cumplir los 4 con la guía, de la siguiente manera:
 
-* Responsable 1 :point_right: Punto 1
-
-* Responsable 2 :point_right: Punto 2 
-
-* Responsable 3 :point_right: Punto 3
-
-* Responsable 4 :point_right: Punto 4
+Responsable 1 :point_right: Punto 1
+Responsable 2 :point_right: Punto 2 
+Responsable 3 :point_right: Punto 3
+Responsable 4 :point_right: Punto 4
 
 ## Importante
 
