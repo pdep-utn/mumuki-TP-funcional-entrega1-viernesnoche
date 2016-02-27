@@ -75,4 +75,3 @@ sino hacer directamente
 ``` haskell
 f x y = x == y
 ``` 
-
