@@ -69,7 +69,9 @@ Definí el tipo de cada función (de lo contrario te van a aparecer errores).
 f x y  | x == y    = True 
        | otherwise = False
 ```
+
 sino hacer directamente 
+
 ``` haskell
 f x y = x == y
 ``` 
