@@ -5,4 +5,6 @@ describe "Test Datos de los que van a la disco" $ do
      estaBorracha fer `shouldBe` False
   it "Rodri tomo bebidas alcoholicas pero menos de lo que aguanta, no esta borracho" $ do
      estaBorracha rodri `shouldBe` False
+  it "Flor tomo bebidas alcoholicas y como es tranquila no tiene aguante, esta borracha" $ do
+     estaBorracha flor `shouldBe` True
   
