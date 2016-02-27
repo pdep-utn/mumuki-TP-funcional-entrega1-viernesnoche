@@ -1,7 +1,7 @@
 describe "Test Datos de los que van a la disco" $ do
-  it "Encontrar una bebida de graduación alcoholica debe devolver su graduacion" $ do
-     graduacionAlcoholica "Grog XD" tragos `shouldBe` 350
-  it "Encontrar una bebida sin alcohol debe devolver 0" $ do
-     graduacionAlcoholica "Coca cola" tragos `shouldBe` 0
-  it "No encontrar a una bebida en la lista de tragos tira error" $ do
-     graduacionAlcoholica "Manaos" tragos `shouldThrow` anyErrorCall     
+  it "Alcohol en sangre de deby es 8760 porque tomo bebidas alcoholicas" $ do
+     alcoholEnSangre "deby" discotequers `shouldBe` 8760
+  it "Alcohol en sangre de alguien que no tomo bebidas alcoholicas da 0" $ do
+     alcoholEnSangre "fer" discotequers `shouldBe` 0
+  it "Alcohol en sangre de alguien que no se encuentra tira error" $ do
+     alcoholEnSangre "kiko" discotequers `shouldThrow` anyErrorCall     
