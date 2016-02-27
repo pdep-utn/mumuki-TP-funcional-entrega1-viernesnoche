@@ -42,6 +42,10 @@ El formato que sigue la tupla es:
 * Nombre de la bebida 
 * Graduación alcohólica de cada vaso
 
+## Importante
+
+Definí el tipo de cada función (de lo contrario te van a aparecer errores).
+
 
 ## Restricciones
 
