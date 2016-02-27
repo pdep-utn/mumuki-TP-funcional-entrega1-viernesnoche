@@ -9,3 +9,6 @@ Resolver la cantidad de alcohol en sangre que tiene una persona.
 *Main> alcoholEnSangre "fer" discotequers
 0
 ```
+
+**Nota:** asumir que los puntos 1 y 2 ya están resueltos, no debe repetir código de los puntos anteriores.
+
