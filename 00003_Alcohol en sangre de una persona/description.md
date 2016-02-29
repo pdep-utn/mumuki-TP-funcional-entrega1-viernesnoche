@@ -10,5 +10,5 @@ Resolver la cantidad de alcohol en sangre que tiene una persona.
 0
 ```
 
-**Nota:** asumir que los puntos 1 y 2 ya están resueltos, no debe repetir código de los puntos anteriores.
+**Nota:** asumir que los puntos 1 y 2 ya están resueltos (respetar esos nombres), no debe repetir código de los puntos anteriores.
 
