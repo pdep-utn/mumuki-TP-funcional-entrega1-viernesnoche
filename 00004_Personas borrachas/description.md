@@ -12,4 +12,4 @@ True
 False
 ``` 
 
-**Nota**: Debe asumir que las tres funciones anteriores ya existen.
+**Nota**: Debe asumir que las tres funciones anteriores ya existen (respetar esos mismos nombres).
