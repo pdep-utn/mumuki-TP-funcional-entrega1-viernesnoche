@@ -18,8 +18,8 @@ Las personas **tranquilas** definen:
 
 * Cómo se llama la persona
 * La lista de tragos que tomó, cada trago se representa como una tupla que define 
-* El nombre de la bebida 
-* La cantidad de vasos que tomó 
+  * El nombre de la bebida 
+  * La cantidad de vasos que tomó 
 
 Las que **agitan** definen
 
