@@ -44,7 +44,7 @@ El formato que sigue la tupla es:
 
 ## Forma de entrega y División de responsabilidades
 
-Cada grupo tendrá 4 integrantes y deben cumplir los 4 con la guía, de la siguiente manera:
+Cada grupo tendrá 4 integrantes y deben cumplir los 4 con la guía, pero la responsabilidad de cada uno recaerá de la siguiente manera:
 
 Responsable 1 :point_right: Punto 1
 
