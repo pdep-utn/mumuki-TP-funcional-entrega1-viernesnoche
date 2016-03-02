@@ -1,5 +1,4 @@
-
-Resolver la cantidad de alcohol en sangre que tiene una persona. 
+> Resolver la cantidad de alcohol en sangre que tiene una persona. 
 
 ``` haskell
 *Main> alcoholEnSangre "deby" discotequers
