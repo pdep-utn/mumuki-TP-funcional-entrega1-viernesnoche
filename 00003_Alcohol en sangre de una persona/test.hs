@@ -1,4 +1,4 @@
-describe "Test Datos de los que van a la disco" $ do
+describe "Test Alcohol en Sangre de una Persona" $ do
   it "Alcohol en sangre de deby es 8760 porque tomo bebidas alcoholicas" $ do
      alcoholEnSangre "deby" discotequers `shouldBe` 8760
   it "Alcohol en sangre de alguien que no tomo bebidas alcoholicas da 0" $ do

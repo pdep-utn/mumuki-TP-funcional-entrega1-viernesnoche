@@ -1,4 +1,4 @@
-describe "Test Datos de los que van a la disco" $ do
+describe "Test Graduacion Alcoholica" $ do
   it "No encontrar a una bebida en la lista de tragos tira error" $ do
      graduacionAlcoholica "Manaos" tragos `shouldThrow` anyException     
   it "Encontrar una bebida de graduacion alcoholica debe devolver su graduacion" $ do

@@ -1,4 +1,4 @@
-describe "Test Datos de los que van a la disco" $ do
+describe "Test Personas Borrachas" $ do
   it "Deby tomo mas de lo que puede soporar, esta borracha" $ do
      estaBorracha deby `shouldBe` True
   it "Fer no tomo bebidas alcoholicas, no esta borracho" $ do
