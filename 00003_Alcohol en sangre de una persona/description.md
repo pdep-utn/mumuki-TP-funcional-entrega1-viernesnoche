@@ -9,7 +9,7 @@
 0
 ```
 
-**Nota:** asumir que los puntos 1 y 2 ya están resueltos (respetar esos nombres), no debe repetir código de los puntos anteriores, éstas son:
+**Nota:** no repitas código de los puntos anteriores, asumí que los puntos 1 y 2 ya están resueltos, respetando esos mismos nombres que son:
 
 * `datosDe/1`: Encuentra los datos de una persona que ingresó a la discoteca en base al nombre
 * `graduacionAlcoholica/1`: Resuelve la graduación alcohólica de un trago

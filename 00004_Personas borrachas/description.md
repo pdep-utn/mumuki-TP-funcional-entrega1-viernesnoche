@@ -1,9 +1,4 @@
-> Saber si una persona está borracha:
-
-* para una persona tranquila, no puede tener nada de alcohol en sangre
-* para un agitador, si el aguante es < que el alcohol en sangre
-
-Debe reutilizar puntos anteriores para evitar repetición de código
+> Saber si una persona está borracha: para una persona tranquila, no puede tener nada de alcohol en sangre. Para un agitador, si el aguante es < que el alcohol en sangre
 
 ``` haskell
 *Main> estaBorracha deby
@@ -14,7 +9,7 @@ True
 False
 ``` 
 
-**Nota**: Debe asumir que las tres funciones anteriores ya existen (respetar esos mismos nombres), éstas son:
+**Nota:** no repitas código de los puntos anteriores, asumí que los puntos 1, 2 y 3 ya están resueltos, respetando esos mismos nombres que son:
 
 * `datosDe/1`: Encuentra los datos de una persona que ingresó a la discoteca en base al nombre
 * `graduacionAlcoholica/1`: Resuelve la graduación alcohólica de un trago
