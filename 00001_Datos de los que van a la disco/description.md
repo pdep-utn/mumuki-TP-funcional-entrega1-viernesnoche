@@ -1,4 +1,4 @@
-Encontrar los datos de una persona que ingresó a la discoteca en base al nombre 
+> Encontrar los datos de una persona que ingresó a la discoteca en base al nombre 
 
 ``` haskell
 *Main> datosDe "rodri" discotequers

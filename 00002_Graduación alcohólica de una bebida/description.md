@@ -1,4 +1,4 @@
-Resolver la graduación alcohólica de un trago 
+> Resolver la graduación alcohólica de un trago 
 
 ``` haskell
 *Main> graduacionAlcoholica "Grog XD" tragos
