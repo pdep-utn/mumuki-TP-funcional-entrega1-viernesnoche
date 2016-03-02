@@ -14,4 +14,8 @@ True
 False
 ``` 
 
-**Nota**: Debe asumir que las tres funciones anteriores ya existen (respetar esos mismos nombres).
+**Nota**: Debe asumir que las tres funciones anteriores ya existen (respetar esos mismos nombres), éstas son:
+
+* `datosDe/1`: Encuentra los datos de una persona que ingresó a la discoteca en base al nombre
+* `graduacionAlcoholica/1`: Resuelve la graduación alcohólica de un trago
+* `alcoholEnSangre/2`: Resuelve la cantidad de alcohol en sangre que tiene una persona (dados un nombre y una lista de personas)
