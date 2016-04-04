@@ -5,3 +5,5 @@ describe "Test Graduacion Alcoholica" $ do
     graduacionAlcoholica "Coca cola" tragos `shouldBe` 0
   --it "No encontrar a una bebida en la lista de tragos tira error" $ do
   --  evaluate(graduacionAlcoholica "Manaos" tragos) `shouldThrow` anyException  
+  it "No encontrar a una bebida en la lista de tragos tira error" $ do
+    evaluate(graduacionAlcoholica "Manaos" tragos) `shouldThrow` anyErrorCall
