@@ -1,5 +1,3 @@
-import Control.Exception
-
 describe "Test Graduacion Alcoholica" $ do
   it "No encontrar a una bebida en la lista de tragos tira error" $ do
     evaluate(graduacionAlcoholica "Manaos" tragos) `shouldThrow` anyException     
