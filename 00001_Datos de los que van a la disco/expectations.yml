@@ -2,4 +2,3 @@
 expectations:
 - binding: datosDe
   inspection: HasDirectRecursion
-  verb: 
